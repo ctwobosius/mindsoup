@@ -1,10 +1,10 @@
 ---
-title: Hello World!
-description: I am the home page of this project
+title: Mind Soup!
+description: A bunch of soups floating in my mind...
 layout: libdoc_page.liquid
 permalink: index.html
-tags:
-    - widgets
+eleventyNavigation:
+    key: Home
 ---
 {% alert 'It seems to be the beginning of a great documentation story!', 'success', 'Howdy!' %}
 

@@ -55,6 +55,7 @@ export default function(eleventyConfig) {
     // END FILE COPY
     
     return {
+        dir: { output: "docs" },
         pathPrefix: libdocConfig.htmlBasePathPrefix
     }
 };

@@ -1,0 +1,37 @@
+[
+        {
+            "url": "/mindsoup/core/assets/fonts/icomoon/demo/",
+            "title": "./core/assets/fonts/icomoon/demo.html",
+            "description": " "
+        },
+        {
+            "url": "/mindsoup/audio_switchers/",
+            "title": "Audio Switchers",
+            "description": "Mux that audio audio tech"
+        },
+        {
+            "url": "/mindsoup/tags/",
+            "title": "./core/libdoc_tags.liquid",
+            "description": " "
+        },
+        {
+            "url": "/mindsoup/folding_keyboard_ergonomic/",
+            "title": "Folding Keyboard Ergonomic",
+            "description": "Would you fold? Without hurting your wrists? tech"
+        },
+        {
+            "url": "/mindsoup/instructions/",
+            "title": "Instructions",
+            "description": "Guides and instructions for easy lookup "
+        },
+        {
+            "url": "/mindsoup/",
+            "title": "Mind Soup!",
+            "description": "A bunch of soups floating in my mind... "
+        },
+        {
+            "url": "/mindsoup/folding_step_stool/",
+            "title": "Folding Step Stool",
+            "description": " furniture"
+        }
+]
